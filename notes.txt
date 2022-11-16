@@ -1,0 +1,2 @@
+registration/sign up part is complete
+sign in and log out are coming soon.
